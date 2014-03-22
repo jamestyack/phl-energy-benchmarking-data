@@ -1,5 +1,5 @@
 FACILITY_DESCRIPTION,ASSET_ADDR,ASSET_ZIP,ASSET_ID,BLDG_FLOOR_AREA,YEAR_BUILT,PROPERTY_TYPE,SECTOR,NUMBER_OF_BUILDINGS,ENERGY_STAR_SCORE,SITE_EUI,WEATHER_NORMALIZED_SITE_EUI,SOURCE _EUI,WEATHER_NORMALIZED_SOURCE_EUI,PERCENT_BETTER,TOTAL_GHG_EMISSIONS,ELECTRIC_USE,GAS_USE,STEAM_USE,OIL_USE
-Curran-Fromhold Correctional Facility,7901 State Road,22031,395,436250,1995,Prison/Incarceration,Correctional Facilities,1,N/A,277.8,278.1,536.8,531.6,216,10800.9,14993930,700232.5,N/A,0.0
+Curran-Fromhold Correctional Facility,7901 State Road,19136,395,436250,1995,Prison/Incarceration,Correctional Facilities,1,N/A,277.8,278.1,536.8,531.6,216,10800.9,14993930,700232.5,N/A,0.0
 Holmesburg Complex,8215 Torresdale Avenue,19136,64,716651,1896,Prison/Incarceration,Correctional Facilities,3,N/A,13.7,14.4,23.6,24.4,-80.8,757.5,929333,65236.9,N/A,129784.9
 House of Correction Complex,8003 State Road,19136,397,830754,1927,Prison/Incarceration,Correctional Facilities,5,N/A,138,145.5,204,211.8,65.7,7812.1,6879149,911908.0,N/A,N/A
 Philadelphia Detention Center,8201 State Road,19136,394,108960,1963,Prison/Incarceration,Correctional Facilities,1,N/A,388.6,409,596.5,617.9,251,3028.4,2895454,298664.8,N/A,2590732.2
@@ -123,7 +123,7 @@ Krewstown Stable,9000 Krewstown Road,19115,651,41330,1969,Other - Public Service
 Northcentral Service / Garage 241,2600 Glenwood Avenue,19132,818,32682,1954,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,107,107.1,171.5,171.6,70.9,310.6,285029,N/A,N/A,2525871.9
 Northwest Transfer Station and Fleet Shop 225,5201 Umbria St And Domino Lane,19128,1143,37841,1959,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,215.4,227.7,376.5,390.7,275.3,753.1,827522,N/A,N/A,5328915.5
 Police Tow Squad,4290-98 Macalester St At Whitaker,19124,788,21970,1960,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,113.2,112.7,199,197.4,98.2,230.3,255986,N/A,N/A,1613500.3
-Traffic Engineering Shop,4501 G ST,22031,929,22398,1960,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,154.3,157.9,275,277,174.1,286.8,355159,22431.0,N/A,N/A
+Traffic Engineering Shop,4501 G ST,19120,929,22398,1960,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,154.3,157.9,275,277,174.1,286.8,355159,22431.0,N/A,N/A
 Undisclosed Facility,N/A,N/A,N/A,N/A,N/A,N/A,Maintenance Facilities and Warehouses,1,50,22.2,22.2,69.6,69.6,0,148.9,344517,N/A,N/A,0.0
 Afro-American Historical Cultural Museum,7th &amp; Arch Streets,19106,391,32100,1750,Museum,Museums,1,N/A,114.2,116.4,263.9,261,210.3,404.4,614285,N/A,1570110.0,N/A
 Atwater Kent Museum,13-17 S 7th St,19106,979,14801,1938,Museum,Museums,1,N/A,218.6,218.6,478.5,478.5,462,349.2,482546,N/A,1589213.9,N/A
