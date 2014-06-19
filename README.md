@@ -9,6 +9,7 @@ https://github.com/CityOfPhiladelphia/phl-energy-benchmarking-data
 
 This data is a subset of a larger energy compliance data set that will be forthcoming, and only contains information regarding municipal buildings.  The larger data set, anticipated for release in summer 2014, will include all commercial buildings above 50,000 sq ft and data for Calendar Year 2013.  It will contain most of the same fields.
 
+##Definitions & Details
 The "Custom Property ID 1 - ID" field within this dataset coordinates with Asset IDs found within in the data set for City buildings: http://www.opendataphilly.org/opendata/resource/252/city-building-locations/
  
 Data definitions can be found at Energy Star's FAQs section: 
