@@ -4,7 +4,7 @@
 ##Summary
 Updated data on energy usage for City-owned buildings for years 2011, 2012 and 2013.
 
-This data complements the previously released dataset for all building over 10k sq ft which was [released in January](https://github.com/CityOfPhiladelphia/phl-energy-benchmarking-data)
+This data complements the previously released dataset for all building over 10k sq ft which was [released in January](https://github.com/CityOfPhiladelphia/phl-energy-benchmarking-data-2011)
 
 This data is a subset of a larger energy compliance data set that will be forthcoming, and only contains information regarding municipal buildings.  The larger data set, anticipated for release in summer 2014, will include all commercial buildings above 50,000 sq ft and data for Calendar Year 2013.  It will contain most of the same fields.
 
